@@ -62,7 +62,7 @@
   display:none;
 }
 
-@media screen and (min-width:1024){
+@media screen and (min-width:1024px){
 .nomecolegio{
   font-size: 30px;
   color: rgb(73, 29, 90);
